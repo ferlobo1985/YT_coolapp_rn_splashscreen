@@ -1,0 +1,12 @@
+{
+  "name": "coolapp",
+  "displayName": "coolapp",
+  "expo": {
+    "name": "coolapp",
+    "slug": "coolapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
